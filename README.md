@@ -1,16 +1,21 @@
 ## Hi there 👋
 
 <!--
-**remashrv/remashrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Remas 👋
 
-Here are some ideas to get you started:
+### About Me
+* A Data Science student passionate about turning raw data into meaningful insights and interactive dashboards.
+* I enjoy exploring data patterns, building predictive models, and constantly improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Technical Skills:
+* **Programming:** Python, R, SQL
+* **Data & Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Tidyverse, ggplot2
+* **Databases:** MySQL Workbench, Relational Databases
+* **Tools & IDEs:** Git, GitHub, VS Code, RStudio, Jupyter Notebook
+
+### 💻 Currently:
+* Deepening my knowledge in statistical modeling and data visualization.
+* Working on university projects and expanding my portfolio.
+
+### 🎯 Goal:
+* To grow as a data scientist and contribute to data-driven solutions that make a real impact.
