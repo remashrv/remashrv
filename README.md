@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 ### Hi there, I'm Remas 👋
 
 ### About Me
